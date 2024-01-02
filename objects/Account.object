@@ -251,6 +251,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Duration__c</fullName>
+        <externalId>false</externalId>
+        <label>Duration</label>
+        <length>16</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Fax</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -270,6 +280,16 @@
         <fullName>Jira_Key__c</fullName>
         <externalId>false</externalId>
         <label>Jira Key</label>
+        <length>16</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Management__c</fullName>
+        <externalId>false</externalId>
+        <label>Management</label>
         <length>16</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
