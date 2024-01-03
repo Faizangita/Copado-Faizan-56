@@ -332,6 +332,16 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Alternator__c</fullName>
+        <externalId>false</externalId>
+        <label>Alternator</label>
+        <length>16</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AssistantName</fullName>
         <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
