@@ -13,7 +13,7 @@
         <allowDelegate>false</allowDelegate>
         <assignedApprover>
             <approver>
-                <name>faizan.a@cloudfulcrum56.com.dev1</name>
+                <name>{!Environment.FaizanUsername}</name>
                 <type>user</type>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
