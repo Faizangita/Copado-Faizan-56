@@ -246,6 +246,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Company_Email__c</fullName>
+        <caseSensitive>true</caseSensitive>
+        <externalId>true</externalId>
+        <label>Company Email</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Email</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
