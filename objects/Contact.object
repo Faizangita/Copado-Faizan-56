@@ -361,6 +361,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Client_Email__c</fullName>
+        <caseSensitive>true</caseSensitive>
+        <externalId>true</externalId>
+        <label>Client Email</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Email</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
         <fullName>Department</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
