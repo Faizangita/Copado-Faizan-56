@@ -32,11 +32,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Duration__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Account.Fax</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -53,11 +48,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Jira_Key__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Management__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
