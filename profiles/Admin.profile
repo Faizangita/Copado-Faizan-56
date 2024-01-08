@@ -11,6 +11,10 @@
         <field>Contact.Client_Email__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <flowAccesses>
+        <enabled>true</enabled>
+        <flow>Lead_Generation</flow>
+    </flowAccesses>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
