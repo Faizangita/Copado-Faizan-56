@@ -341,6 +341,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>S1__c</fullName>
+        <externalId>false</externalId>
+        <label>S1</label>
+        <length>16</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ShippingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
